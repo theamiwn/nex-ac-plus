@@ -1,0 +1,9 @@
+{
+	"user": "theamiwn",
+	"repo": "nex-ac-plus",
+	"entry": "example.pwn",
+	"output": "example.amx",
+	"dependencies": [
+		"pawn-lang/samp-stdlib"
+	]
+}
